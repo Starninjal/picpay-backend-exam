@@ -1,2 +1,4 @@
 # picpay-backend-exam
-Backend exam for picpay application
+
+This project was specifically developed for submission to the PicPay technical challenge:
+https://github.com/PicPay/picpay-desafio-backend.
